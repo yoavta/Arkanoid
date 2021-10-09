@@ -6,10 +6,25 @@
 
 
 ## second stage
-![2](https://user-images.githubusercontent.com/70321869/136667139-3322d1c1-b002-4860-9c5a-6762566a0493.jpg)
+
+
+https://user-images.githubusercontent.com/70321869/136668715-e751c8cb-5881-46f3-b818-c362f34a8023.mp4
+
 
 ## third stage
-![3](https://user-images.githubusercontent.com/70321869/136667144-545adb0e-eec0-41ae-b8c0-6b18ecd78210.jpg)
+
+
+https://user-images.githubusercontent.com/70321869/136668720-20a575e2-b7e0-4536-a6ed-e6ca3cf9a0e8.mp4
+
 
 ## forth stage
 ![4](https://user-images.githubusercontent.com/70321869/136667151-499d8a73-052a-4ea4-9f3e-f9bdd686e0da.jpg)
+
+## pause screen
+
+
+https://user-images.githubusercontent.com/70321869/136668731-945ceed6-062f-41da-8650-ab59a9d07a76.mp4
+
+
+
+
