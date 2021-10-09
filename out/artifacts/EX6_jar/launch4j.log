@@ -1,0 +1,106 @@
+
+
+Version:	3.14
+CmdLine:	C:\Users\tamir\OneDrive\UNIVERSITY\OOP\exercise\EX6\out\artifacts\EX6_jar\EX6.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\tamir\OneDrive\UNIVERSITY\OOP\exercise\EX6\out\artifacts\EX6_jar\.
+Java min ver:	1.007.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\15.0.2
+Check launcher:	C:\Program Files\Java\jdk-15.0.2\bin\javaw.exe (OK)
+Match:		1.015.000_002
+Runtime used:	1.015.000_002 (64-bit)
+Heap -Xms:	Requested 100 MB / 0%, Available: 1028 MB, Heap size: 100 MB
+Heap -Xmx:	Requested 100 MB / 0%, Available: 1028 MB, Heap size: 100 MB
+Launcher:	C:\Program Files\Java\jdk-15.0.2\bin\javaw.exe
+Launcher args:	-Xms100m -Xmx100m -jar "C:\Users\tamir\OneDrive\UNIVERSITY\OOP\exercise\EX6\out\artifacts\EX6_jar\EX6.exe"
+Args length:	106/32768 chars
+Exit code:	0
+
+
+Version:	3.14
+CmdLine:	C:\Users\tamir\OneDrive\UNIVERSITY\OOP\exercise\EX6\out\artifacts\EX6_jar\EX6.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\tamir\OneDrive\UNIVERSITY\OOP\exercise\EX6\out\artifacts\EX6_jar\.
+Java min ver:	1.001.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\15.0.2
+Check launcher:	C:\Program Files\Java\jdk-15.0.2\bin\javaw.exe (OK)
+Match:		1.015.000_002
+Runtime used:	1.015.000_002 (64-bit)
+Heap -Xms:	Requested 100 MB / 0%, Available: 1274 MB, Heap size: 100 MB
+Heap -Xmx:	Requested 100 MB / 0%, Available: 1274 MB, Heap size: 100 MB
+Main class:	Ass6Game
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jdk-15.0.2\bin\javaw.exe
+Launcher args:	-Xms100m -Xmx100m -classpath "." Ass6Game
+Args length:	41/32768 chars
+Exit code:	0
+
+
+Version:	3.14
+CmdLine:	C:\Users\tamir\OneDrive\UNIVERSITY\OOP\exercise\EX6\out\artifacts\EX6_jar\EX6.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\tamir\OneDrive\UNIVERSITY\OOP\exercise\EX6\out\artifacts\EX6_jar\.
+Java min ver:	1.001.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\15.0.2
+Check launcher:	C:\Program Files\Java\jdk-15.0.2\bin\javaw.exe (OK)
+Match:		1.015.000_002
+Runtime used:	1.015.000_002 (64-bit)
+Heap -Xms:	Requested 100 MB / 0%, Available: 1232 MB, Heap size: 100 MB
+Heap -Xmx:	Requested 100 MB / 0%, Available: 1232 MB, Heap size: 100 MB
+Main class:	Ass6Game
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jdk-15.0.2\bin\javaw.exe
+Launcher args:	-Xms100m -Xmx100m -classpath "C:\Users\tamir\OneDrive\UNIVERSITY\OOP\exercise\EX6\out\artifacts\EX6_jar\EX6.exe" Ass6Game
+Args length:	121/32768 chars
+Exit code:	0
+
+
+Version:	3.14
+CmdLine:	C:\Users\tamir\OneDrive\UNIVERSITY\OOP\exercise\EX6\out\artifacts\EX6_jar\EX6.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\tamir\OneDrive\UNIVERSITY\OOP\exercise\EX6\out\artifacts\EX6_jar\.
+Java min ver:	1.001.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\15.0.2
+Check launcher:	C:\Program Files\Java\jdk-15.0.2\bin\javaw.exe (OK)
+Match:		1.015.000_002
+Runtime used:	1.015.000_002 (64-bit)
+Heap -Xms:	Requested 100 MB / 0%, Available: 1265 MB, Heap size: 100 MB
+Heap -Xmx:	Requested 100 MB / 0%, Available: 1265 MB, Heap size: 100 MB
+Main class:	Ass6Game
+Add classpath:	c:\config
+Launcher:	C:\Program Files\Java\jdk-15.0.2\bin\javaw.exe
+Launcher args:	-Xms100m -Xmx100m -classpath "C:\Users\tamir\OneDrive\UNIVERSITY\OOP\exercise\EX6\out\artifacts\EX6_jar\EX6.exe;c:\config" Ass6Game
+Args length:	131/32768 chars
+Exit code:	0
