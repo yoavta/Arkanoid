@@ -1,5 +1,5 @@
 # Arkanoid
- Block breaker arcade game
+ Block breaker arcade game with animated backgrounds.
 
 ## first stage
 ![1](https://user-images.githubusercontent.com/70321869/136667115-e413faba-f545-48ad-9ee9-70390b4a1e3b.jpg)
